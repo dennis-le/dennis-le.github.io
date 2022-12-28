@@ -34,6 +34,6 @@ My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (
 * Email - ledennis.apply@gmail.com
 
 -------------------
-<h1 align="center">Resume 👇</h1>
+<h1 align="center">Resume</h1>
 
 ![](dennis_le_resume.PNG)
