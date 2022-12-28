@@ -7,7 +7,6 @@
 </p>
 
 
-
 # Quick Introduction
 My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (Class of 2022), where I've studied Data Science and Economics. 
 
@@ -37,3 +36,4 @@ My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (
 <h1 align="center">Resume</h1>
 
 ![](dennis_le_resume.PNG)
+
