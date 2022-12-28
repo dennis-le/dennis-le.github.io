@@ -36,4 +36,4 @@ My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (
 -------------------
 <h1 align="center">Resume 👇</h1>
 
-![](Dennis_Le.pdf)
+![](dennis_le_resume.pdf)
