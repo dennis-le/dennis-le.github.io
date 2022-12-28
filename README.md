@@ -6,7 +6,6 @@
   <img src="profile_pic.jpeg" width="250"/>
 </p>
 
-
 # Quick Introduction
 My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (Class of 2022), where I've studied Data Science and Economics. 
 
