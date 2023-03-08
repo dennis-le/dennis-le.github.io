@@ -30,6 +30,7 @@ My name is **Dennis Le** (pronounced Den-nis Le). I'm an alumni of UC Berkeley (
 # How to reach me 
 * LinkedIn - https://www.linkedin.com/in/ledennis/  
 * Email - ledennis.apply@gmail.com
+* Github - https://github.com/dennis-le/
 
 -------------------
 <h1 align="center">Resume</h1>
